@@ -8,6 +8,8 @@
     <Viewbox>
     <Grid>
         <Grid.ColumnDefinitions>
+          
+            
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="13" />
         </Grid.ColumnDefinitions>
